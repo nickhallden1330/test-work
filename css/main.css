@@ -259,11 +259,12 @@ background-size: 100%;
 
 }
 .footer__submid{
-    padding: 240px 125px 240px 635px;
+padding: 240px 0 240px 635px;
     
 }
 .footer__strong{
     width: 490px;
+    margin-bottom: 30px;
     font-weight: 700;
 font-size: 50px;
 line-height: 120%;
